@@ -4,4 +4,11 @@
     <string name="go_to_next_activity">Go to next activity</string>
     <string name="welcome_to_forth_activity">Welcome to Forth Activity</string>
     <string name="enter_name">Enter name</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="thanks_for_toast">Hi! Thanks for clicking Toast</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="forth_activity">Forth Activity</string>
+    <string name="dismiss_progress">Dismiss progress</string>
+    <string name="show_toast">Show Toast</string>
 </resources>
